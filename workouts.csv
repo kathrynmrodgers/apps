@@ -1,16 +1,16 @@
 ﻿workout,muscles,difficulty,movement
 bus divers,core,1,core
-lawn mowers,core,1,Pull
+lawn mowers,core,2,pull
 farmer's carry,core,1,core
 suitcase march,core,1,core
 band sidesteps,legs,1,legs
 one leg RDL (back foot airborne),legs,2,legs
 one leg RDL (back foot grounded),legs,2,legs
-DB chest press,arms,2,Push
-DB incline chest press,arms,2,Push
-DB overhead press,arms,2,Push
+DB chest press,arms,2,push
+DB incline chest press,arms,2,push
+DB overhead press,arms,2,push
 KB swings,core,1,core
-KB clean and press,arms,2,Push
+KB clean and press,arms,2,push
 TRX squat,legs,1,legs
 face pulls,arms,1,pull
 lat pull downs,arms,2,pull
@@ -20,6 +20,6 @@ weighted step downs,legs,1,legs
 bar RDL,legs,2,legs
 hex bar deadlifts,legs,2,legs
 ab wheel,core,1,core
-skullcrushers,arms,1,Push
+skullcrushers,arms,1,push
 lateral raise,arms,1,pull
 inverted pull ups,arms,2,pull
